@@ -1,0 +1,9 @@
+@import url(./bootstrap.min.css);
+
+h1 {
+    color: blue;
+    text-align: center;
+    background-color: silver;
+    height: 150px;
+    padding-top: 45px;
+}
