@@ -8,14 +8,21 @@ h1 {
     padding-top: 45px;
 }
 
+
+p{
+    text-align: center;
+}
+
 .Fearow{
 
     display: inline-block;
-    
+
 }
 
 .Raichu {
 
     display: inline-block;
-
+    padding-left: 90px;
+    text-align: center;
+    
 }
